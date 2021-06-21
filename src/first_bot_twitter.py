@@ -1,10 +1,8 @@
 import pandas as pd
-import smtplib
-import keys
 import tweepy
 from datetime import date
 from urllib.request import Request, urlopen
-from keys import *
+from src.keys import *
 
 req = Request('https://www.worldometers.info/coronavirus/country/us/', headers={'User-Agent': 'Mozilla/5.0',
                                                                                 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',})

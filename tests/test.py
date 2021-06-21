@@ -1,9 +1,5 @@
-import tweepy
-from keys import *
 import requests
-import schedule
 from datetime import date
-import time
 
 #def post():
 url = 'https://health.hawaii.gov/coronavirusdisease2019/'

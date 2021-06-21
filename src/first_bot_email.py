@@ -1,14 +1,10 @@
 # Created follow a tutorial at: https://towardsdatascience.com/how-to-track-coronavirus-with-python-a5320b778c8e
 
-from selenium import webdriver
 from datetime import date
 from urllib.request import Request, urlopen
 import pandas as pd
 import smtplib
-import keys.py
-import schedule
-import time
-import tweepy
+
 
 def get_data():
     #req = Request('https://www.worldometers.info/coronavirus/#countries', headers={'User-Agent': 'Mozilla/5.0'})

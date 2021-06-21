@@ -1,6 +1,6 @@
 import tweepy
 from datetime import date
-from keys import *
+from src.keys import *
 import requests
 
 url = 'https://health.hawaii.gov/coronavirusdisease2019/'
