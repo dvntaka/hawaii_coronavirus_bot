@@ -1,4 +1,4 @@
-# hawaii_coronavirus_bot
+# Hawaii Coronavirus Bot
 Web Scraper for COVID-19 cases in Hawaii that posts results to Twitter or email.
 
 https://twitter.com/HawaiiCovidBot
