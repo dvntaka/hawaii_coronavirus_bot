@@ -5,7 +5,9 @@ Web Scraper for COVID-19 cases in Hawaii that posts results to Twitter or email.
 
 ## Installation
 To install, simply use the following command: 
-```python3 -m pip install hi-covid-bot```
+```
+python3 -m pip install hi-covid-bot
+```
 
 ## Usage
 
